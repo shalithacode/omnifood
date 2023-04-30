@@ -44,7 +44,6 @@ body {
   font-size: 1.5rem;
   transition: all 0.3s;
 }
-
 .main-nav-link:hover,
 .main-nav-link:active {
   color: #cf711f;
